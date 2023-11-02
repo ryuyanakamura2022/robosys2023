@@ -3,7 +3,7 @@
  * © 2023 Ryuya Nakamura 
 
 # plusコマンド
-![test](https://github.com/ryuyanakamura/robosys2023/actions/workflows/test.yml/badge.svg)
+![test](https://github.com/ryuyanakamura2022/robosys2023/actions/workflows/test.yml/badge.svg)
 標準入力から読み込んだ数字を足す。
 
 ## 必要なソフトウェア
