@@ -10,9 +10,14 @@
 ## インストール方法
 以下のコードをホームディレクトリで入力
 ```
-git@github.com:ryuyanakamura2022/robosys2023.git
+git clone git@github.com:ryuyanakamura2022/robosys2023.git
 ```
-インストールが完了後
+インストールが完了後,robosys2023のディレクトリに入る。
+```
+cd robosys2023
+```
+robosys2023に入れたならば、数値を入力する(実行例を参照)
+
 ## 実行例
 標準入力
 ```
