@@ -12,7 +12,7 @@
 ```
 git clone git@github.com:ryuyanakamura2022/robosys2023.git
 ```
-インストールが完了後,robosys2023のディレクトリに入る。
+インストールが完了後、robosys2023のディレクトリに入る。
 ```
 cd robosys2023
 ```
