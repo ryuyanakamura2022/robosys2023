@@ -8,8 +8,7 @@
 標準入力で数字を入力する。読み込んだ数字まで繰り返し足し算を実行する。
 
 ## 実行例
-以下のように入力をする。
-入力
+標準入力
 ```
 seq 4 | ./plus
 ```
@@ -27,5 +26,6 @@ seq 4 | ./plus
 
 ## ライセンス
 * このソフトウェアパッケージは、3条項BSDライセンスの下、再頒布および使用が許可されます。
-
-© 2023 Ryuya Nakamura
+* このパッケージのコードは，下記のスライド（CC-BY-SA 4.0 by Ryuichi Ueda）のものを，本人の許可を得て自身の著作としたものです。
+  * (https://github.com/ryuichiueda/my_slides/tree/master/robosys_2022) 
+* © 2023 Ryuya Nakamura
