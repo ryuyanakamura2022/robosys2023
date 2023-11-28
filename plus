@@ -17,3 +17,4 @@ for line in sys.stdin:
 
 
 print(int(ans))
+
