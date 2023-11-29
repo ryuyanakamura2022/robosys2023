@@ -20,5 +20,4 @@ for line in sys.stdin:
     ans2 -= tonum(line)
 
 
-print(int(ans1))
-print(int(ans2))
+print(ans1, ans2)
