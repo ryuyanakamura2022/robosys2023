@@ -10,11 +10,21 @@ def tonum(s):
     except:
         return float(s)
 
-ans = 0
+ans1 = 0
+ans2 = 0
+ans3 = 1
+ans4 = 1.0
 for line in sys.stdin:
     line = line.rstrip()
-    ans += tonum(line)
+    ans1 += tonum(line)
+    ans2 -= tonum(line)
+    ans3 *= tonum(line)
+    ans4 /= tonum(line)
 
 
-print(int(ans))
 
+
+print(int(ans1))
+print(int(ans2))
+print(int(ans3))
+print(float(ans4))
