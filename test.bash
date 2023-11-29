@@ -13,8 +13,8 @@ res=0
 #out=$(seq 5 | ./plus)
 #[ "${out}" = 15 ] || ng ${LINENO}
 
-out=$(seq 5 | ./plus)
-[ "${out}" = "15 -15" ] || ng ${LINENO}
+out=$(seq 2 | ./plus)
+[ "${out}" = "3 -3 2 0.5" ] || ng ${LINENO}
 
 ### STRANGE INPUT ###
 out=$(echo あ | ./plus)
